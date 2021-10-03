@@ -1,0 +1,1 @@
+This is a project on ODIN that I am working on. This project will primarily deal with the basics.
