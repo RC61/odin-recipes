@@ -1,14 +1,21 @@
 div {
     color: pink;
     background-color: peachpuff;
+    text-align: center;
 }
 
 #parent {
     color:rgb(218, 15, 137);
+    font-size: 120px;
 }
 
 .child {
     color: royalblue;
+    font-size: 100px;
+    font-family: monospace;
+    position: static;
+    text-align: center;
+
 }
 
 * {
