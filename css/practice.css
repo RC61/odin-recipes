@@ -1,0 +1,16 @@
+div {
+    color: pink;
+    background-color: peachpuff;
+}
+
+#parent {
+    color:rgb(218, 15, 137);
+}
+
+.child {
+    color: royalblue;
+}
+
+* {
+    background-color: plum;
+}
