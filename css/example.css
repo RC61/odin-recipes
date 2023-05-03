@@ -4,3 +4,16 @@
     font-size: 40px;
 }
 
+.box-one{
+    background-color: darkmagenta;
+    padding: 20px;
+    border: red;
+    margin: 20px;
+}
+
+.box-two{
+    background-color: blue;
+    padding: 20px;
+    border: yellow;
+    margin: 20px;
+}
