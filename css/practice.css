@@ -5,6 +5,7 @@ div {
 }
 
 #parent {
+    background-color: aqua;
     color:rgb(218, 15, 137);
     font-size: 120px;
 }
